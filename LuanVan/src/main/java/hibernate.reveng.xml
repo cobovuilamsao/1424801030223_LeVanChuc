@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Admin"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Bonus"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Categories"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Contracts"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Customers"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Departments"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="EmployeeTypes"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Employees"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="OrderDetails"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Orders"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Producers"/>
+  <table-filter match-catalog="HieuBoyShop" match-schema="dbo" match-name="Products"/>
+</hibernate-reverse-engineering>
